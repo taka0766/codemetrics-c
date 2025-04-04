@@ -93,4 +93,4 @@ set WINSDK_INCLUDE_PATH="C:\Program Files (x86)\Windows Kits\10\Include\10.0.190
 
 ## 作者
 
-[Anonymous / taka0766]
+[taka0766](https://github.com/taka0766)
